@@ -10,7 +10,7 @@
 `cd dash`
 
 3. Install some importent:
-`apt install zip -y && unzip dashboard.zip && cd dash`
+`apt install zip -y && unzip dashboard.zip && cd dash && apt install nano -y && nano .env`
 
 5. Install dependencies:
 `npm install`
